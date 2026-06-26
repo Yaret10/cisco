@@ -13,3 +13,8 @@ body {
 .scrollbar-hide::-webkit-scrollbar {
     display: none; /* Para Chrome, Safari y Opera */
   }
+
+
+.titulo-producto {
+  text-align: center;
+}
